@@ -13,3 +13,4 @@ justificación: cumplimos con todo lo solicitado en el reto, nos esforzamos much
 ATT: sus mejores estudiantes 
 Salomé Carmona Franco
 Samuel Conde 
+tenga compasión de nosotros profe 
