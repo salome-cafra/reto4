@@ -8,5 +8,5 @@
 ![alt text](<MANTENIMIENTO A COMPONENTES.png>)
 ![alt text](<componente sin uso y con uso.png>)
 AUTOEVALUACION
-nota: 5.0
+nota: 4.7
 justificación: cumplimos con todo lo solicitado en el reto, nos esforzamos mucho y solo solicitamos ayuda de una persona para que nos diera recomendaciones y mejorar el codigo
