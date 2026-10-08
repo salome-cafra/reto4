@@ -4,7 +4,7 @@
 ![alt text](<componente sin uso y con uso.png>)
 ![alt text](<COMPONENTE VALOR = 0.png>)
 ![alt text](<COMPONENTE VALOR DIFERENTE DE CERO.png>)
-![alt text](<HORAS DE USO, LAS HORAS DE USO REGISTRADAS SE ALMACENAN EN UN DICCIONARIO.png>)
+![alt text](<HORAS DE USO, LAS HORAS DE USO REGISTRADAS SE ALMACENAN EN UN DICCIONARIO.png>)  las horas de uso registradas se almacenan en un diccionario 
 ![alt text](<MANTENIMIENTO A COMPONENTES (2).png>)
 ![alt text](<MANTENIMIENTO A COMPONENTES.png>)
 AUTOEVALUACION
