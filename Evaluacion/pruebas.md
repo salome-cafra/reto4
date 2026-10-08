@@ -10,3 +10,6 @@
 AUTOEVALUACION
 nota: 4.7
 justificación: cumplimos con todo lo solicitado en el reto, nos esforzamos mucho y solo solicitamos ayuda de una persona para que nos diera recomendaciones y mejorar el codigo
+ATT: sus mejores estudiantes 
+Salomé Carmona Franco
+Samuel Conde 
